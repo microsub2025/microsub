@@ -20,9 +20,8 @@ the five baselines:
     + [Backend](https://github.com/gmazlami/microserviceExtraction-backend)
 2) [**Bunch**](https://github.com/ArchitectingSoftware/Bunch)
 3) [**Mono2Micro**](https://github.com/rahlk/ASE21-Tutorial)
-4) UseCaseExec
-    + S.-H Kim, D. Jung, N. Mohd Ali, A. B. Md Sultan, and J. Oh, "Microservice identification by partitioning monolithic web applications based on use-cases," J. Inf. Commun. Converg. Eng., vol. 21, no. 4, pp.268-280, 2023
-5) Study [[1](#reference)]
+4) **UseCaseExec [[2](#reference)]**
+5) **Study [[1](#reference)]**
 
 MEM, Bunch, and Mono2Micro are the same as those used in the study [[1](#Reference)]. The results of these baselines are available at the following link. (https://github.com/microdvi/MicroDVI/tree/main/Baselines)
 
@@ -40,3 +39,5 @@ Experimental results used in the Evaluation section are provided in Results fold
 # Reference
 [1] S. H. Kim and J. Oh, "Migrating Monolithic Web Applications to Microservice
 Architectures Considering Dependencies on Databases and Views," ***In proceedings of the 40th ACM/SIGAPP Symposium On Applied Computing***, 2025.
+
+[2] S. H Kim, D. Jung, N. Mohd Ali, A. B. Md Sultan, and J. Oh, "Microservice identification by partitioning monolithic web applications based on use-cases," J. Inf. Commun. Converg. Eng., vol. 21, no. 4, pp.268-280, 2023
