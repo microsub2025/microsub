@@ -1,6 +1,6 @@
 # Structure and Use case-based Approach to Migrating Monolithic Applications into Microservices
 
-## Subject web apps
+# Subject web apps
 |Web app|Description|Technologies|
 |---|---|---|
 |[JPetStore2](https://github.com/KimJongSung/jPetStore)|Online pet store|Spring, MyBatis|
@@ -18,8 +18,8 @@ the five baselines:
 1) **MEM** 
     + [Frontend](https://github.com/gmazlami/microserviceExtraction-frontend)
     + [Backend](https://github.com/gmazlami/microserviceExtraction-backend)
-2) [Bunch](https://github.com/ArchitectingSoftware/Bunch)
-3) [Mono2Micro](https://github.com/rahlk/ASE21-Tutorial)
+2) [**Bunch**](https://github.com/ArchitectingSoftware/Bunch)
+3) [**Mono2Micro**](https://github.com/rahlk/ASE21-Tutorial)
 4) UseCaseExec
     + S.-H Kim, D. Jung, N. Mohd Ali, A. B. Md Sultan, and J. Oh, "Microservice identification by partitioning monolithic web applications based on use-cases," J. Inf. Commun. Converg. Eng., vol. 21, no. 4, pp.268-280, 2023
 5) Study [[1](#reference)]
