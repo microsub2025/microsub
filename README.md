@@ -40,4 +40,4 @@ Experimental results used in the Evaluation section are provided in Results fold
 [1] S. H. Kim and J. Oh, "Migrating Monolithic Web Applications to Microservice
 Architectures Considering Dependencies on Databases and Views," ***In proceedings of the 40th ACM/SIGAPP Symposium On Applied Computing***, 2025.
 
-[2] S. H Kim, D. Jung, N. Mohd Ali, A. B. Md Sultan, and J. Oh, "Microservice identification by partitioning monolithic web applications based on use-cases," J. Inf. Commun. Converg. Eng., vol. 21, no. 4, pp.268-280, 2023
+[2] S. H Kim, D. Jung, N. Mohd Ali, A. B. Md Sultan, and J. Oh, "Microservice identification by partitioning monolithic web applications based on use-cases," ***J. Inf. Commun. Converg. Eng.***, vol. 21, no. 4, pp.268-280, 2023
